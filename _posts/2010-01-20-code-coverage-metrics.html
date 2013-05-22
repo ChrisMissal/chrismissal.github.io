@@ -1,0 +1,32 @@
+---
+layout: post
+title: Code Coverage Metrics
+tags:
+- Programming
+- Testing
+status: publish
+type: post
+published: true
+meta:
+  _edit_last: '4942425'
+  delicious: a:3:{s:5:"count";i:0;s:9:"post_tags";s:0:"";s:4:"time";i:1362585353;}
+  reddit: a:2:{s:5:"count";i:0;s:4:"time";i:1365868433;}
+---
+I know code coverage of 100% doesn't mean that the application is without bugs. I also know that code with zero unit tests can work just fine. I do, however, <strong>firmly believe </strong>that having automated tests is <strong>a must when writing complex software</strong>.
+
+You can increase your code coverage several ways:
+<ol>
+	<li>Writing unit tests to cover code that isn't being tested.</li>
+	<li>Delete un-used classes and functions.</li>
+	<li>Reducing the number of uncovered lines of code in tested methods by means of refactoring.</li>
+</ol>
+There are others I'm sure, but that's all I can think of off the top of my head (and while I'm typing this up). Of the many ways you can reduce your coverage (writing new, untested code being the most obvious), another way just came to me that may be common sense to others, but it just popped in my head.
+
+I could have a class with 100 sequence points, all covered. I could also have an application with 2570 of 3212 sequence points covered. This would give me just over 80% code coverage. Not bad, but what happens when I refactor that class of 100 sequence points into one that is still covered 100%, but now contains only 30 sequence points?
+
+My coverage drops to under 80% code coverage:
+<p style="padding-left:30px;">2570 / 3212 = 80.0125%
+2500 / 3142 = 79.567%</p>
+Sure, it's less than one half percent, but it's still a drop. My application is likely better and easier to maintain (less code), but my coverage numbers have gone down. This quick realization blip in my head just reminded of yet another reason code coverage isn't a good measure of a project.
+<p style="text-align:right;"><em><strong>You may ask:</strong> How would you even notice something like this happening?
+Well, you can fail a build in a continuous integration environment if coverage drops below a configured threshold.</em></p>
