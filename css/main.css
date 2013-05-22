@@ -20,7 +20,7 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-size: 100%; }
+  font-size: 125%; }
 
 h1 { margin-bottom: 1em; }
 p { margin: 1em 0; }
@@ -162,4 +162,25 @@ ul.posts span {
 
 #post pre.terminal code {
   background-color: #333;
+}
+
+/*****************************************************************************/
+/*
+/* Community
+/*
+/*****************************************************************************/
+
+#page h1 {
+  font-size: 18px;
+  font-weight: bolder;
+  border-bottom: 1px dashed #c0c0c0;
+}
+#page ul {
+  list-style-type: none;
+  margin-bottom: 2em;
+  margin-left: 1em;
+}
+
+#page ul li {
+  line-height: 1.75em;
 }
