@@ -1,6 +1,8 @@
 ---
-published: "false"
-layout: default
+published: true
+layout: post
+title: The Blog Move and Recent Changes
+type: post
 
 ---
 
