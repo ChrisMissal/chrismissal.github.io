@@ -6,8 +6,6 @@ type: post
 
 ---
 
-## The Blog Move and Recent Changes
-
 I began to make some big changes to the site recently. The biggest is that this is no longer hosted on Wordpress. I have moved to GitHub Pages with Jekyll. They come for various reasons, but here are a few that I'd like to share:
 
 1. I wanted to learn something new. This is built on Jekyll + GitHub pages. Also, I really like what I'm seeing with [Prose.io](http://prose.io) so far.
