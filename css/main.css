@@ -33,7 +33,17 @@ table {
   font-size: inherit;
   font: 100%;
 }
-
+.tops ul {
+  list-style-type: none;
+}
+.tops ul li {
+  float: left;
+}
+.tops quote {
+  font-family: "Georgia", serif;
+  font-size: 120%;
+  font-style: oblique;
+}
 /*****************************************************************************/
 /*
 /* Home
@@ -50,7 +60,7 @@ ul.posts li {
 
 ul.posts span {
   color: #aaa;
-  font-family: Monaco, "Courier New", monospace;
+  font-family: "Georgia", "Courier New", monospace;
   font-size: 80%;
 }
 
@@ -62,9 +72,9 @@ ul.posts span {
 
 .site {
   font-size: 115%;
-  text-align: justify;
+  text-align: left;
   width: 42em;
-  margin: 3em auto 2em;
+  margin: 0 auto 2em;
   line-height: 1.5em;
 }
 

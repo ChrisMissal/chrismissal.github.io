@@ -4,10 +4,18 @@ title: ChrisMissal.com
 ---
 
 <div id="home">
-  <h1>Blog Posts</h1>
-  <ul class="posts">
-    {% for post in site.posts %}
-      <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
-    {% endfor %}
-  </ul>
+	<section>
+		<article>
+			<h1>Chris Missal &ndash; <em>A programmer, nerd, goofball, and technologist.</em></h1>
+			<p>Chris is a software developer, currently located in beautiful Austin, TX. You can find him online in many places, usually by the username {{ site.username }}. For more information visit the links and icons above. To learn more about Chris's thoughts on software and possible life in general, check out the blog posts below.</p>
+		</article>
+	</section>
+	<section>
+	  <h1>Blog Posts</h1>
+	  <ul class="posts">
+	    {% for post in site.posts %}
+	      <li><a href="{{ post.url }}">{{ post.title }}</a> <span>({{ post.date | date_to_string }})</span></li>
+	    {% endfor %}
+	  </ul>
+	</section>
 </div>
