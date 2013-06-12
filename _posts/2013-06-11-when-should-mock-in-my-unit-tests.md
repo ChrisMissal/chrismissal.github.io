@@ -1,6 +1,8 @@
 ---
-published: false
-layout: default
+published: true
+layout: post
+type: post
+title: "When Should I Mock in My Unit Tests?"
 ---
 
 ## When Should I Mock in My Unit Tests?
