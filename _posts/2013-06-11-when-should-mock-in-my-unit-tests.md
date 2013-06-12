@@ -5,8 +5,6 @@ type: post
 title: "When Should I Mock in My Unit Tests?"
 ---
 
-## When Should I Mock in My Unit Tests?
-
 A conversation about how to, and when to mock came up today and I shared my thoughts with [Headspring](http://www.headspring.com) in our HipChat room. It was shared on Twitter by [Sharon](http://twitter.com/scichelli) and my friend [Ryan](http://twitter.com/rauhryan) asked for the link to that list. It turns out there was no link, but I'm going to fix that now.
 
 When do I feel like I should use a mock? Glad you asked!
