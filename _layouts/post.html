@@ -19,6 +19,10 @@ layout: default
 	</p>
 </section>
 
+{% if page.has_tweet_embedded %}
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+{% endif %}
+
 <div id="disqus_thread"></div>
 <script type="text/javascript">
     var disqus_shortname = 'chrismissal';
