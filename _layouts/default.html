@@ -27,6 +27,9 @@
         <script type="text/javascript">var switchTo5x=true;</script>
         <script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script>
         <script type="text/javascript">stLight.options({publisher: "f4d2b848-062d-4291-aac8-e136bfde15e3", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>
+        {% for script in page.scripts %}
+        <script type="text/javascript" src="{{ script }}"></script>
+        {% endfor %}
       </head>
     <body>
 

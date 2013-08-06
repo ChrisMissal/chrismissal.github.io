@@ -1,0 +1,31 @@
+---
+layout: page
+title: Instagram is for Counting
+tags: []
+status: publish
+type: page
+published: true
+scripts: ['/js/instafeed.min.js']
+---
+
+<section>
+	<p>I have an Instagram account, but I only use it for counting.</p>
+	<p>There are only a few &quot;rules&quot; that I'm doing my best to follow:</p>
+	<ol>
+		<li>Photo contains integers, no skips, no duplicates</li>
+		<li>Don't take photos of the same thing twice. No duplicates on things like playing cards or pool balls.</li>
+		<li>Any language counts! (Arabic numerals, roman numerals, English text, Spanish text, etc)</li>
+	</ol>
+	<p>That's about it! Here's what I have so far:</p>
+</section>
+
+<div id="instafeed"></div>
+
+<script type="text/javascript">
+    var userFeed = new Instafeed({
+        get: 'user',
+        userId: 365726455,
+        accessToken: '365726455.467ede5.d5bed85b653d4bc1ae1276001c2060fb'
+    });
+    userFeed.run();
+</script>
