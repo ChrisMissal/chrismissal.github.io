@@ -8,7 +8,7 @@ has_tweet_embedded: true
 
 Wow, so I really dig this guy's artwork:
 
-[http://society6.com/artist/TimShumate]
+[Tim Shumate Art Prints](http://society6.com/artist/TimShumate)
 
 Some of my favorites:
 
