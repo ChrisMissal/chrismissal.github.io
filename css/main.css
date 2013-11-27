@@ -27,7 +27,7 @@ p { margin: 1em 0; }
 
 a         { color: #00a; }
 a:hover   { color: #000; }
-a:visited { color: #a0a; }
+a:visited { color: #57c; }
 
 table {
   font-size: inherit;
@@ -73,7 +73,7 @@ ul.posts span {
 .site {
   font-size: 115%;
   text-align: left;
-  width: 42em;
+  max-width: 42em;
   margin: 0 auto 2em;
   line-height: 1.5em;
 }
@@ -96,9 +96,14 @@ ul.posts span {
   color: #000;
 }
 
+.site .mobile-only a.extra {
+  margin-left: 0 !important;
+  margin-right: 1em !important;
+}
 .site .header a.extra {
   color: #aaa;
   margin-left: 1em;
+  margin-right: 0;
 }
 
 .site .header a.extra:hover {

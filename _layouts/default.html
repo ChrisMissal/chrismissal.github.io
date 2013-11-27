@@ -35,7 +35,7 @@
 
         <div class="container">
           <div class="site">
-            <div class="row tops">
+            <div class="mobile-hide row tops">
               <div class="col_3_4_4 avatar">
                 <img src="http://en.gravatar.com/userimage/4942425/e3b300f85ae409555a9e47ff4114ea4a.jpg?size=100" alt="Chris" title="Chris" />
               </div>
@@ -52,13 +52,19 @@
                 </ul>    
               </div>
             </div>
-            <div class="header">
+            <div class="header mobile-hide">
               <h1 class="title"><a href="/">{{ site.name }}</a></h1>
               <a class="extra" href="/">home</a>
               <a class="extra" href="/work">my work</a>
               <a class="extra" href="/speaker">speaker</a>
               <a class="extra" href="/tools">tools</a>
               <a class="extra" href="https://www.dwolla.com/hub/812-449-3191?amount=4.00&memo=Cheers!">buy me a beer</a>
+            </div>
+            <div class="header mobile-only">
+              <a class="extra" href="/">home</a>
+              <a class="extra" href="/work">my work</a>
+              <a class="extra" href="/speaker">speaker</a>
+              <a class="extra" href="/tools">tools</a>
             </div>
      
                 {{ content }}
