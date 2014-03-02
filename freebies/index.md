@@ -29,7 +29,7 @@ If you see anything here that you'd like to have, let me know, it's all free. I'
 * Sony DVD player – No remote
 * Lots of CDs (does anybody still **want** CDs?) &dagger;
 * Many DVDs &dagger;
-* ~~[Computer Printer](http://www.brother-usa.com/Printer/ModelDetail/1/HL2070N/Overview#.UxONmPSwJZI) – Network Laser Printer~~
+* <del>[Computer Printer](http://www.brother-usa.com/Printer/ModelDetail/1/HL2070N/Overview#.UxONmPSwJZI) – Network Laser Printer</del>
 
 #### Books/Office
 
