@@ -15,10 +15,10 @@ If you see anything here that you'd like to have, let me know, it's all free. I'
 
 #### Games
 
-* Rock Band for XBox 360 – Comes with game, guitar, microphone, drums
+* <del>Rock Band for XBox 360 – Comes with game, guitar, microphone, drums</del>	
 * Guitar Hero – Two guitars, GH 1, 2, Rock the 80's
 * Scattergories board game
-* Handheld Blow Dart gun and darts (not a toy!)
+* <del>Handheld Blow Dart gun and darts (not a toy!)</del>
 
 #### Sportsball Stuff
 
