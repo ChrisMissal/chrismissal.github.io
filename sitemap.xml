@@ -4,22 +4,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     {% for post in site.posts %}
     <url>
-        <loc>http://chrismissal.com{{ post.url | remove: 'index.html' }}</loc>
+        <loc>{{ site.url }}{{ post.url | remove: 'index.html' }}</loc>
         <lastmod>{{ post.date | date: "%Y-%m-%d" }}</lastmod>
         <priority>0.6</priority>
     </url>
     {% endfor %}
 
     <url>
-        <loc>http://chrismissal.com/instagram-is-for-counting</loc>
+        <loc>{{ site.url }}/instagram-is-for-counting</loc>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>http://chrismissal.com/Formo</loc>
+        <loc>{{ site.url }}/Formo</loc>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>http://chrismissal.com/Quiche</loc>
+        <loc>{{ site.url }}/Quiche</loc>
         <priority>0.5</priority>
     </url>
 
@@ -27,7 +27,7 @@
     {% if page.layout != nil %}
     {% if page.layout != 'feed' %}
     <url>
-        <loc>http://chrismissal.com{{ page.url | remove: 'index.html' }}</loc>
+        <loc>{{ site.url }}{{ page.url | remove: 'index.html' }}</loc>
         {% if page.url == '/index.html' %}
         <priority>1.0</priority>
         {% else %}
