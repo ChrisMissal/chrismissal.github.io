@@ -5,6 +5,8 @@
     {% for post in site.posts %}
     <url>
         <loc>http://chrismissal.com{{ post.url | remove: 'index.html' }}</loc>
+        <lastmod>{{ post.date | date: "%Y-%m-%d" }}</lastmod>
+        <priority>0.6</priority>
     </url>
     {% endfor %}
 
@@ -13,6 +15,11 @@
     {% if page.layout != 'feed' %}
     <url>
         <loc>http://chrismissal.com{{ page.url | remove: 'index.html' }}</loc>
+        {% if page.url == '/index.html' %}
+        <priority>1.0</priority>
+        {% else %}
+        <priority>0.8</priority>
+        {% endif %}
     </url>
     {% endif %}
     {% endif %}
