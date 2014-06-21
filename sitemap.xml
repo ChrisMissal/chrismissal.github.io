@@ -11,6 +11,10 @@
     {% endfor %}
 
     <url>
+        <loc>http://chrismissal.com/instagram-is-for-counting</loc>
+        <priority>0.5</priority>
+    </url>
+    <url>
         <loc>http://chrismissal.com/Formo</loc>
         <priority>0.5</priority>
     </url>
