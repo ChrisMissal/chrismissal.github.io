@@ -10,6 +10,15 @@
     </url>
     {% endfor %}
 
+    <url>
+        <loc>http://chrismissal.com/Formo</loc>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>http://chrismissal.com/Quiche</loc>
+        <priority>0.5</priority>
+    </url>
+
     {% for page in site.pages %}
     {% if page.layout != nil %}
     {% if page.layout != 'feed' %}
