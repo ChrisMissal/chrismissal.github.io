@@ -26,7 +26,7 @@ If you see anything here that you'd like to have, let me know, it's all free. I'
 
 #### Electronics
 
-* Sony DVD player – No remote
+* <del>Sony DVD player – No remote</del>
 * Lots of CDs (does anybody still **want** CDs?) &dagger;
 * Many DVDs &dagger;
 * <del>[Computer Printer](http://www.brother-usa.com/Printer/ModelDetail/1/HL2070N/Overview#.UxONmPSwJZI) – Network Laser Printer</del>
