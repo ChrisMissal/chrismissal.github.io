@@ -18,7 +18,7 @@ Over the years, these skills have allowed me work on and improve projects for so
 Not only do I have the communication and technical skills to help organizations succeed, I also help out with several open source initiatives. I'm passionate about knowledge, sharing, learning, and growing as a software developer.
 
 ### I like connecting with people
-I'm a big believer in helping people out and introducing friends and acquintances to one another so that they might find a better job, a new friend, or their next business partner. I use LinkedIn as an address book of connections. I'm pretty sure that's what it's for and how I should be using it.
+I'm a big believer in helping people out and introducing friends and acquaintances to one another so that they might find a better job, a new friend, or their next business partner. I use LinkedIn as an address book of connections. I'm pretty sure that's what it's for and how I should be using it.
 
 ### It's fun to mess with people
 You might notice that I've been endorsed in a few odd categories. While I do think I'm good with Magnets (Bucky Balls), I also have a few endorsements in Squirrels. These tags are fun to assign to one another as a joke from time to time. Many of them are serious, but don't get caught up in each one individually, some are just friends having a laugh at my expense. I'm okay with that.
