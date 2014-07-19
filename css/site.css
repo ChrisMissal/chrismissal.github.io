@@ -1,1 +1,9 @@
-body { padding-top: 70px; } /* for sticky header */
+body { padding-top: 85px; } /* for sticky header */
+
+/* override height for ShareThis buttons that Bootstrap was affecting */
+.stButton .stButton_gradient {
+	height: 24px !important;
+}
+.stButton .stFb, .stButton .stTwbutton, .stButton .stMainServices {
+	height: 24px !important;
+}
