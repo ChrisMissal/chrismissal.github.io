@@ -9,8 +9,8 @@ scripts: ['/js/instafeed.min.js']
 ---
 
 <section>
-	<p>I have an Instagram account, but I only use it for counting.</p>
-	<p>There are only a few &quot;rules&quot; that I'm doing my best to follow:</p>
+	<p class="lead">I have an Instagram account, but I only use it for counting.</p>
+	<p>There are a few simple &quot;rules&quot; that I'm doing my best to follow:</p>
 	<ol>
 		<li>Photo contains integers, no skips, no duplicates</li>
 		<li>Don't take photos of the same thing twice. No duplicates on things like playing cards or pool balls.</li>
@@ -19,13 +19,8 @@ scripts: ['/js/instafeed.min.js']
 	<p>That's about it! Here's what I have so far:</p>
 </section>
 
-<div id="instafeed"></div>
+<div class="row">
+	<div id="instafeed"></div>
+</div>
 
-<script type="text/javascript">
-    var userFeed = new Instafeed({
-        get: 'user',
-        userId: 365726455,
-        accessToken: '365726455.467ede5.d5bed85b653d4bc1ae1276001c2060fb'
-    });
-    userFeed.run();
-</script>
+<script type="text/javascript" src="/js/instaconfig.js"></script>
