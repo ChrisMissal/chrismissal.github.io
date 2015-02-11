@@ -76,15 +76,15 @@ The real reason I'm sharing my thoughts here is to keep a list of bottle brands 
 
 1. Kona
 
-**This list last updated January 27<sup>th</sup>, 2015.**
-
-<strong>&dagger;</strong>&nbsp;This only makes the list because of the built in cap. The labels would bring it down to a &quot;Good&quot;, use at your own discretion.
-
 ### Conclusion
 
 Anything listed in Best, Good, or Okay is easily cleaned up. The closer to Best just means that it takes less effort. Even the bottles listed in Okay are still usable, they're just a little more annoying than others. If you feel my list is missing something, let me know, I'll give it a go and see where it belongs. If you have tips for me, I'm also interesting in learning better/faster/cheaper ways to get bottles ready for brewing. Again, I'm new to this, so don't assume my advice is flawless. I hope this helps you in your home brewing experiences, and thanks for checking it out.
 
 #### Updates
 
+**This list last updated February 11<sup>th</sup>, 2015.**
+
 - Feb 11th – Note added to Anchor Brewing,  Boulevard moved up, and added Guiness Blonde
  
+<strong>&dagger;</strong>&nbsp;This only makes the list because of the built in cap. The labels would bring it down to a &quot;Good&quot;, use at your own discretion.
+
