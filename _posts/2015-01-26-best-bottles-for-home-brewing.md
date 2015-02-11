@@ -60,16 +60,17 @@ The real reason I'm sharing my thoughts here is to keep a list of bottle brands 
 
 #### Best
 
-1. Anchor Brewing
+1. Anchor Brewing (I have honestly seen both labels fall off when pulling them out of the soapy water)
 1. New Belgium
-1. Great Divide
 1. Boulevard
+1. Great Divide
 1. Grolsch&dagger;
 
 #### Good
 
 1. Kirin
 1. Breckenridge
+1. Guiness Blonde
 
 #### Okay
 
@@ -83,4 +84,7 @@ The real reason I'm sharing my thoughts here is to keep a list of bottle brands 
 
 Anything listed in Best, Good, or Okay is easily cleaned up. The closer to Best just means that it takes less effort. Even the bottles listed in Okay are still usable, they're just a little more annoying than others. If you feel my list is missing something, let me know, I'll give it a go and see where it belongs. If you have tips for me, I'm also interesting in learning better/faster/cheaper ways to get bottles ready for brewing. Again, I'm new to this, so don't assume my advice is flawless. I hope this helps you in your home brewing experiences, and thanks for checking it out.
 
+#### Updates
 
+- Feb 11th – Note added to Anchor Brewing,  Boulevard moved up, and added Guiness Blonde
+ 
