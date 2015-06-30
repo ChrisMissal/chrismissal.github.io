@@ -12,12 +12,12 @@ My older sister got wind of this request and decided to get me a copy of my favo
 
 Here is a new Chee Chee in all his glory:
 
-[New Chee Chee on Imgur](http://i.imgur.com/aONz9AC.jpg)
+![New Chee Chee on Imgur](http://i.imgur.com/aONz9AC.jpg)
 
 Shortly after I was back home in Iowa for the holidays my Mom found a crate with a bunch of old things in it. The good news is that the entire crate was filled with stuffed animals. The bad news is that everything appeared to be rotten or moldy or eaten by moths, bugs, or what have you.
 
 As mi Madre was emptying the crate of the nasty, decomposing plush creatures, she actually found one that was untouched by the torments of nature and time. She pulled out a small chimpanzee!
 
-[Original Chee Chee on Imgur](http://i.imgur.com/ymqlFAL.jpg)
+![Original Chee Chee on Imgur](http://i.imgur.com/ymqlFAL.jpg)
 
 While he's clearly beat up, naked, pacifier-less, and in desperate need of a bath... He still looks exactly like I remember him!
