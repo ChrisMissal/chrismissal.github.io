@@ -22,6 +22,6 @@ So we were talking about links in email that are not supposed to be forwarded. T
 
 > So be it, until victory is humanity's and there is no enemy, but peace!
 
-I think it's better this way. For reference: https://en.wikipedia.org/wiki/Rifleman%27s_Creed
+I think it's better this way. For reference: [Rifleman's Creed](https://en.wikipedia.org/wiki/Rifleman%27s_Creed)
 
 This is so stupid.
