@@ -7,3 +7,4 @@ markdown: kramdown
 
 scripts:
   instafeed: /js/instafeed.min.js
+theme: jekyll-theme-minimal
